@@ -13,3 +13,5 @@ while NrTowaru != 10:
 
 
 print("Wybrales nr", NrTowaru, "koszt to", KosztTowaruNr10)
+
+#testowy komentarz do nauki commitowania
